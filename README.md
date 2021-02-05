@@ -6,4 +6,5 @@ O Projeto consiste no desenvolvimento de uma página web muito próxima a tela d
 
 ### Tecnologias utilizadas
 * HTML5;
-* CSS3.
+* CSS3;
+* Resposividade.
